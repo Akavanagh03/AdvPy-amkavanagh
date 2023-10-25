@@ -14,31 +14,31 @@
 
 ## Assignments
 
-### Assignment #1
+### Assignment #0
 
 | Name | Value |
 | :--- | :--- |
-| Name | Hello World |
+| Name | Dev Tool Setup/Git-it |
 | Description | A basic hello world program |
-| Due Date | 1-Jan-20 |
+| Due Date | 31-Aug-23 |
 | Status | Done |
 | Location | https://github.com/akavangh03/AdvPy-amkavanagh/project0 |
-| Self Grade | 100/100 |
-| Notes | completed all the requirements and tested program |
+| Self Grade | 50/100 |
+| Notes | completed all the requirements but turned in very late |
 
-### Assignment #2
+### Assignment #1
 
 | Name | Value |
 | :--- | :--- |
 | Name | Kattis Problems |
 | Description | Complete Various Kattis problems complete with unit-testing |
-| Due Date | 1-Feb-2020 |
+| Due Date | 17-Oct-2023 |
 | Status | Complete |
 | Location | https://github.com/akavangh03/AdvPy-amkavanagh/project1 |
 | Self Grade | 43/100 |
 | Notes | completed some solutions along with proper set up and turn in procedures |
 
-### Assignment #3
+### Assignment #2
 
 | Name | Value |
 | :--- | :--- |
