@@ -1,6 +1,6 @@
-# csci000-astudent
+# CSCI310 Aidan Kavanagh
 
-## A sample github repo demonstrating how to turn in assignments and labs
+## Aidan Kavanagh's GitHub repo for CSCI310 - Advanced Programming in Python
 
 | Name | Value |
 |:---|:---|
@@ -22,38 +22,33 @@
 | Description | A basic hello world program |
 | Due Date | 1-Jan-20 |
 | Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
+| Location | https://github.com/akavangh03/AdvPy-amkavanagh/project0 |
 | Self Grade | 100/100 |
-| Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
+| Notes | completed all the requirements and tested program |
 
 ### Assignment #2
 
 | Name | Value |
 | :--- | :--- |
-| Name | Egypt |
-| Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
+| Name | Kattis Problems |
+| Description | Complete Various Kattis problems complete with unit-testing |
 | Due Date | 1-Feb-2020 |
 | Status | Complete |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
-| Self Grade | 80/100 |
-| Notes | completed the solution; couldn't write test cases |
+| Location | https://github.com/akavangh03/AdvPy-amkavanagh/project1 |
+| Self Grade | 43/100 |
+| Notes | completed some solutions along with proper set up and turn in procedures |
 
-
-## Labs
-
-### Lab #1
+### Assignment #3
 
 | Name | Value |
 | :--- | :--- |
-| Name | 1 - Std IO Lab |
-| Description | Lab covering standard input and output |
-| Due Date | 10-Jan-20 |
-| Status | complete |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
+| Name | Docker container |
+| Description | Set up a docker container and use it to build and test the kattis problem CosmicPathOptimization |
+| Due Date | 31-Oct-2023 |
+| Status | Complete |
+| Location | https://github.com/akavangh03/AdvPy-amkavanagh/project1 |
 | Self Grade | 100/100 |
-| Notes | typed the given code stub; fixed all the fixmes; learned about stdio |
-
-
+| Notes | completed all required tasks and tested repeatedly |
 ## References
 
 1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
