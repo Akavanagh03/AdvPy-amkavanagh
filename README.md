@@ -22,7 +22,7 @@
 | Description | A basic hello world program |
 | Due Date | 31-Aug-23 |
 | Status | Done |
-| Location | https://github.com/akavangh03/AdvPy-amkavanagh/projects/'Project-0 Dev Tool Setup and Git-it' |
+| Location | https://github.com/akavangh03/Projects/AdvPy-amkavanagh/Project-0 Dev Tool Setup and Git-it |
 | Self Grade | 50/100 |
 | Notes | completed all the requirements but turned in very late |
 
