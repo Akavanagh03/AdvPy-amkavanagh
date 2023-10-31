@@ -46,7 +46,7 @@
 | Description | Set up a docker container and use it to build and test the kattis problem CosmicPathOptimization |
 | Due Date | 31-Oct-2023 |
 | Status | Complete |
-| Location | https://github.com/akavangh03/AdvPy-amkavanagh/Docker-Container |
+| Location | https://github.com/akavangh03/Docker-Container |
 | Self Grade | 100/100 |
 | Notes | completed all required tasks and tested repeatedly. There were some issues that came up when doing the makefile testing but those were resolved with the help of classmates |
 ## References
