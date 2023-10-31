@@ -38,7 +38,7 @@
 | Self Grade | 43/100 |
 | Notes | completed some solutions along with proper set up and turn in procedures |
 
-### Assignment #2
+### Assignment #2 (Assignment 6?)
 
 | Name | Value |
 | :--- | :--- |
@@ -46,9 +46,9 @@
 | Description | Set up a docker container and use it to build and test the kattis problem CosmicPathOptimization |
 | Due Date | 31-Oct-2023 |
 | Status | Complete |
-| Location | https://github.com/akavangh03/AdvPy-amkavanagh/project1 |
+| Location | https://github.com/akavangh03/AdvPy-amkavanagh/Docker-Container |
 | Self Grade | 100/100 |
-| Notes | completed all required tasks and tested repeatedly |
+| Notes | completed all required tasks and tested repeatedly. There were some issues that came up when doing the makefile testing but those were resolved with the help of classmates |
 ## References
 
 1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
